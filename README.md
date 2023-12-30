@@ -86,5 +86,5 @@ bash ./scripts/train.sh 0 \
 ```
 
 ## Acknowledgements
-https://github.com/hrzhou2/seedformer
+
 Our code is inspired by [PoinTr](https://github.com/yuxumin/PoinTr), [SnowflakeNet](https://github.com/AllenXiangX/SnowflakeNet) and [SeedFormer](https://github.com/hrzhou2/seedformer).
