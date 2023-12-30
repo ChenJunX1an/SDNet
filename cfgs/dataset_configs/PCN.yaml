@@ -1,0 +1,12 @@
+NAME: PCN
+CATEGORY_FILE_PATH: data/PCN/PCN.json
+N_POINTS: 16384
+N_RENDERINGS: 8
+PARTIAL_POINTS_PATH: data/PCN/%s/partial/%s/%s/%02d.pcd
+COMPLETE_POINTS_PATH: data/PCN/%s/complete/%s/%s.pcd
+FINE_POINTS_PATH: data/PCN/%s/fine/%s/%s/%02d.pcd
+LOST_POINTS_PATH: data/PCN/%s/lost/%s/%s/%02d.pcd
+FINE16_POINTS_PATH: data/PCN/%s/fine16/%s/%s/%02d.pcd
+FINE8_POINTS_PATH: data/PCN/%s/fine8/%s/%s/%02d.pcd
+FINE4_POINTS_PATH: data/PCN/%s/fine4/%s/%s/%02d.pcd
+CARS: FALSE

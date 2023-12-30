@@ -1,0 +1,6 @@
+NAME: EPNdataset
+data_root: /home/M2021-CJX/ml_hw/Multimodal-Shape-Completion-master/data/ShapeNetPointCloud
+data_raw_root: /home/M2021-CJX/ml_hw/Multimodal-Shape-Completion-master/data/shapenet_dim32_sdf_pc
+N_POINTS: 2048
+category: chair
+
