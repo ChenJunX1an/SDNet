@@ -1,4 +1,7 @@
 # SD-Net: Spatially-Disentangled Point Cloud Completion Network
+
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611716)
+
 This repository contains PyTorch implementation for __SD-Net: Spatially-Disentangled Point Cloud Completion Network__ (ACM MM 2023 Oral Presentation).
 
 ```
