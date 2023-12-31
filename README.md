@@ -81,7 +81,7 @@ CUDA_VISIBLE_DEVICES=0,1 bash ./scripts/dist_train.sh 2 13232 \
     --exp_name example --resume
 ```
 
-Train a PoinTr model with a single GPU:
+Train a SDNet model with a single GPU:
 ```
 bash ./scripts/train.sh 0 \
     --config ./cfgs/ShapeNet55_models/SDNet.yaml \
